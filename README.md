@@ -1,2 +1,2 @@
-# go-migration
+# goBase
 Migration tool for Databases
